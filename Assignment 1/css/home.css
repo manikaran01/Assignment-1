@@ -1,0 +1,42 @@
+body {
+    /* Add background image to the body */
+    background-image: url("C:/xampp/htdocs/Assignment 1/images/th.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* Remove background color */
+    background-color: transparent;
+}
+
+main {
+    padding: 1rem;
+    text-align: center;
+}
+
+h2 {
+    color: rgba(243, 248, 243, 0.389);
+}
+
+section {
+    margin: 2rem 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 0.5rem 0;
+    padding: 0.5rem 1rem 0.5rem 3rem;
+    border: 1px solid #ddd;
+    /* Add your background image to the list items */
+    background-image: url("C:/xampp/htdocs/Assignment /images/raps.jpeg");
+    background-size: cover; /* Adjust this property as needed */
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #333; /* Add color to the text */
+}
+
+
+
